@@ -21,8 +21,14 @@
   align-items: center;
 
   img {
-    width: 56px;
-    height: 56px;
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
 
     @media screen and (min-width: 2000px) {
       width: 112px;

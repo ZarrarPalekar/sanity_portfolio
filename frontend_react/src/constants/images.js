@@ -34,7 +34,7 @@ import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
-import logow from "../assets/logow.webp";
+import logow from "../assets/PZJ.jpg";
 
 export default {
   email,
